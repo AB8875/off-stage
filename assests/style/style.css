@@ -1,0 +1,8 @@
+.heading {
+  background-image: url(../img/animated.webp);
+  background-repeat: no-repeat;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  background-size: cover;
+  font-weight: 700;
+}
